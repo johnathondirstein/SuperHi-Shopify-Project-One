@@ -17,6 +17,13 @@
     "form": {
       "submit": "Preorder"
     }
+  },
+  "cart": {
+    "button": {
+      "filled": "Your cart is filled",
+      "empty": "Your cart is empty",
+      "close": "close"
+    }
   }
 }
 
